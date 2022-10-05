@@ -2,9 +2,8 @@
 layout: post
 title: Sudoku Solver
 subtitle: Sudoku Player / Solver Visualization
-gh-repo: alexharris0214/
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-repo: alexharris0214/Sudoku
+gh-badge: [follow, star]
 comments: true
 ---
 
