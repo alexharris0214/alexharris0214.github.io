@@ -51,11 +51,11 @@ round-avatar: true
 social-network-links:
   email: "alexharris0214@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: "alexharris0214"
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,7 +64,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +17329628837
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname

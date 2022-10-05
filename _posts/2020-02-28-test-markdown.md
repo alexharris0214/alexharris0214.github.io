@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Sudoku Solver
+subtitle: Sudoku Player / Solver Visualization
+gh-repo: alexharris0214/
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
