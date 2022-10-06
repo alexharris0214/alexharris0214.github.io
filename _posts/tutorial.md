@@ -1,3 +1,12 @@
+---
+layout: post
+title: New Post
+subtitle: New POst
+thumbnail-img: /assets/img/sudoku-board.png
+gh-repo: alexharris0214/Sudoku
+comments: true
+---
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
